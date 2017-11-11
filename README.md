@@ -1,2 +1,2 @@
 # stockprices
-# Import javascript sample files
+# Import php sample files
